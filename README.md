@@ -5,3 +5,7 @@ at **NTI (National Telecommunication Institution)**
 ### `Technologies used`
 HTML5, CSS3, JavaScript, Bootstrap,
 Font Awesome for icons
+
+### `Live Demo`
+
+[preview](https://efatsamir.github.io/bootstrap-template/)
