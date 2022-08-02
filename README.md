@@ -3,5 +3,5 @@ Static responsive landing page, the graduation project from the **Web Design cou
 at **NTI (National Telecommunication Institution)**  
 
 ### `Technologies used`
-HTML5, CSS3, JavaScript, Bootstrap
+HTML5, CSS3, JavaScript, Bootstrap,
 Font Awesome for icons
